@@ -5,7 +5,7 @@ A project assigned by [Professor Andrew Schwimmer](https://github.com/andrewoid 
 #### The Task
 The task was to design a non-recursive function to find the mth number
 in the nth row of Rascal's Triangle. 
-#####Look at below visual to see color coded visual of Rascal Triangle diagonal patterns.
+Look at below visual to see color coded visual of Rascal Triangle diagonal patterns.
 ![Alt](Rascal_Visual_Screenshot.PNG "")
 
 See [this]( https://github.com/rachel613g/RascalsTriangle/blob/master/RascalsTriangle.pdf "") for the original question 
